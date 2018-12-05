@@ -5,3 +5,17 @@ You can find the course website [here](https://engl350.tumblr.com/).
 
 You can even turn this into a table of contents that links out to materials that you've uploaded to or created in your repository.
       
+Reflection Essay
+
+Project Headnote
+      Project 1 Materials
+      Project 2 Materials
+
+Weekly Analytical Reflection Headnote
+Analytical Reflections
+      Week 1
+      Week 2
+      Week 3
+      Week 8
+      Week 11
+      Week 14
