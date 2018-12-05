@@ -8,14 +8,14 @@ You can even turn this into a table of contents that links out to materials that
 Reflection Essay
 
 Project Headnote
-      Project 1 Materials
-      Project 2 Materials
+Project 1 Materials
+Project 2 Materials
 
 Weekly Analytical Reflection Headnote
 Analytical Reflections
-      Week 1
-      Week 2
-      Week 3
-      Week 8
-      Week 11
-      Week 14
+Week 1
+Week 2
+Week 3
+Week 8
+Week 11
+Week 14
