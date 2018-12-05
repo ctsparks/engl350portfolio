@@ -9,7 +9,7 @@ You can even turn this into a table of contents that links out to materials that
 [Reflection Essay](reflection.txt)
 
 Project Headnote<br>
-Project 1 Materials<br>
+[Project 1 Materials](project1.txt)<br>
 Project 2 Materials<br>
 
 Weekly Analytical Reflection Headnote<br>
