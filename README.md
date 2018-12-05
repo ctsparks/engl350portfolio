@@ -12,7 +12,7 @@ Project 1 Materials
 Project 2 Materials
 
 Weekly Analytical Reflection Headnote
-Analytical Reflections
+6 Analytical Reflections
 Week 1
 Week 2
 Week 3
