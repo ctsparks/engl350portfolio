@@ -6,7 +6,7 @@ You can find the course website [here](https://engl350.tumblr.com/).
 
 You can even turn this into a table of contents that links out to materials that you've uploaded to or created in your repository.
       
-[Reflection Essay](engl350portfolio.reflection.txt)
+[Reflection Essay](reflection.txt)
 
 Project Headnote<br>
 Project 1 Materials<br>
