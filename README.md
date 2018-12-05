@@ -7,9 +7,9 @@ You can even turn this into a table of contents that links out to materials that
       
 Reflection Essay
 
-Project Headnote
-Project 1 Materials
-Project 2 Materials
+Project Headnote<br>
+Project 1 Materials<br>
+Project 2 Materials<br>
 
 Weekly Analytical Reflection Headnote
 6 Analytical Reflections
